@@ -173,13 +173,27 @@
         "TabId": "3",
         "ImageUrl": "https://res.cloudinary.com/appsqaud/video/upload/w_100,h_100,c_fill/funny_video1.jpg",
         "VideoUrl": "https://res.cloudinary.com/appsqaud/video/upload/funny_video1.mp4",
-        "Caption": "Cute Video 1"
+        "Caption": "Cute 1"
       },
       {
         "TabId": "3",
         "ImageUrl": "https://res.cloudinary.com/appsqaud/video/upload/w_100,h_100,c_fill/funny_video2.jpg",
         "VideoUrl": "https://res.cloudinary.com/appsqaud/video/upload/funny_video2.mp4",
-        "Caption": "Cute Video 2"
+        "Caption": "Cute 2"
+      }
+	],
+	"Animals": [
+      {
+        "TabId": "4",
+        "ImageUrl": "https://res.cloudinary.com/appsqaud/video/upload/w_100,h_100,c_fill/funny_video1.jpg",
+        "VideoUrl": "https://res.cloudinary.com/appsqaud/video/upload/funny_video1.mp4",
+        "Caption": "Animals 1"
+      },
+      {
+        "TabId": "4",
+        "ImageUrl": "https://res.cloudinary.com/appsqaud/video/upload/w_100,h_100,c_fill/funny_video2.jpg",
+        "VideoUrl": "https://res.cloudinary.com/appsqaud/video/upload/funny_video2.mp4",
+        "Caption": "Animals 2"
       }
 	]
   }
