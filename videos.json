@@ -101,15 +101,15 @@
       },
 	  {
         "TabId": "1",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.mp4",
-        "Caption": "Don't"
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video2.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video2.mp4",
+        "Caption": "Cheerleaders"
       },
 	  {
         "TabId": "1",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.mp4",
-        "Caption": "Bottle"
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.mp4",
+        "Caption": "Punjabi"
       }	  
     ],
     "Hot": [
