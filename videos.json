@@ -168,113 +168,57 @@
         "Caption": "Cake"
       }
     ],
-    "Fun": [
-      {
-        "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video1.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video1.mp4",
-        "Caption": "Baby Doll"
-      },
-      {
-        "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video2.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video2.mp4",
-        "Caption": "NBA Cheerleaders"
-      },
-      {
-        "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video3.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video3.mp4",
-        "Caption": "Arabic Dance"
-      },
-      {
-        "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.mp4",
-        "Caption": "Cricketers Punjabi"
-      },
-	  {
-		"TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.mp4",
-        "Caption": "In Game"
-	  },
-	  {
-		"TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video7.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video7.mp4",
-        "Caption": "Nagin"
-	  },
-	  {
-		"TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video6.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video6.mp4",
-        "Caption": "Groom"
-	  },
-	  {
-        "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video8.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video8.mp4",
-        "Caption": "Pokemon"
-      },	
-	  {
-        "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video5.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video5.mp4",
-        "Caption": "Cute Kid"
-      }	    
-    ],
     "Dance": [
       {
-        "TabId": "4",
+        "TabId": "3",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video1.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video1.mp4",
         "Caption": "Baby Doll"
       },
       {
-        "TabId": "4",
+        "TabId": "3",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video2.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video2.mp4",
         "Caption": "NBA Cheerleaders"
       },
       {
-        "TabId": "4",
+        "TabId": "3",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video3.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video3.mp4",
         "Caption": "Arabic Dance"
       },
       {
-        "TabId": "4",
+        "TabId": "3",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.mp4",
         "Caption": "Cricketers Punjabi"
       },
 	  {
-		"TabId": "4",
+		"TabId": "3",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.mp4",
         "Caption": "In Game"
 	  },
 	  {
-		"TabId": "4",
+		"TabId": "3",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video7.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video7.mp4",
         "Caption": "Nagin"
 	  },
 	  {
-		"TabId": "4",
+		"TabId": "3",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video6.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video6.mp4",
         "Caption": "Groom"
 	  },
 	  {
-        "TabId": "4",
+        "TabId": "3",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video8.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video8.mp4",
         "Caption": "Pokemon"
       },	
 	  {
-        "TabId": "4",
+        "TabId": "3",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video5.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video5.mp4",
         "Caption": "Cute Kid"
