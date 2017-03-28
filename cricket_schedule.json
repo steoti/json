@@ -1,0 +1,422 @@
+[
+ {
+   "id": 1,
+   "ht": "Sunrisers Hyderabad",
+   "vt": "Royal Challengers Bangalore",
+   "loc": "Hyderabad",
+   "dt": "Wed | April 05 - 8:00 pm IST"
+ },
+ {
+   "id": 2,
+   "ht": "Rising Pune Supergiant",
+   "vt": "Mumbai Indians",
+   "loc": "Pune",
+   "dt": "Thu | April 06 - 08:00 pm IST"
+ },
+ {
+   "id": 3,
+   "ht": "Gujarat Lions",
+   "vt": "Kolkata Knight Riders",
+   "loc": "Rajkot",
+   "dt": "Fri | April 07 - 08:00 pm IST"
+ },
+ {
+   "id": 4,
+   "ht": "Kings XI Punjab",
+   "vt": "Rising Pune Supergiant",
+   "loc": "Indore",
+   "dt": "Sat | April 08 - 04:00 pm IST"
+ },
+ {
+   "id": 5,
+   "ht": "Royal Challengers Bangalore",
+   "vt": "Delhi Daredevils",
+   "loc": "Bengaluru",
+   "dt": "Sat | April 08 - 08:00 pm IST"
+ },
+ {
+   "id": 6,
+   "ht": "Sunrisers Hyderabad",
+   "vt": "Gujarat Lions",
+   "loc": "Hyderabad",
+   "dt": "Sun | April 09 - 04:00 pm IST"
+ },
+ {
+   "id": 7,
+   "ht": "Mumbai Indians",
+   "vt": "Kolkata Knight Riders",
+   "loc": "Mumbai",
+   "dt": "Sun | April 09 - 08:00 pm IST"
+ },
+ {
+   "id": 8,
+   "ht": "Kings XI Punjab",
+   "vt": "Royal Challengers Bangalore",
+   "loc": "Indore",
+   "dt": "Mon | April 10 - 08:00 pm IST"
+ },
+ {
+   "id": 9,
+   "ht": "Rising Pune Supergiant",
+   "vt": "Delhi Daredevils",
+   "loc": "Pune",
+   "dt": "Tue | April 11 - 08:00 pm IST"
+ },
+ {
+   "id": 10,
+   "ht": "Mumbai Indians",
+   "vt": "Sunrisers Hyderabad",
+   "loc": "Mumbai",
+   "dt": "Wed | April 12 - 08:00 pm IST"
+ },
+ {
+   "id": 11,
+   "ht": "Kolkata Knight Riders",
+   "vt": "Kings XI Punjab",
+   "loc": "Kolkata",
+   "dt": "Thu | April 13 - 08:00 pm IST"
+ },
+ {
+   "id": 12,
+   "ht": "Royal Challengers Bangalore",
+   "vt": "Mumbai Indians",
+   "loc": "Bengaluru",
+   "dt": "Fri | April 14 - 04:00 pm IST"
+ },
+ {
+   "id": 13,
+   "ht": "Gujarat Lions",
+   "vt": "Rising Pune Supergiant",
+   "loc": "Rajkot",
+   "dt": "Fri | April 14 - 08:00 pm IST"
+ },
+ {
+   "id": 14,
+   "ht": "Kolkata Knight Riders",
+   "vt": "Sunrisers Hyderabad",
+   "loc": "Kolkata",
+   "dt": "Sat | April 15 - 04:00 pm IST"
+ },
+ {
+   "id": 15,
+   "ht": "Delhi Daredevils",
+   "vt": "Kings XI Punjab",
+   "loc": "Delhi",
+   "dt": "Sat | April 15 - 08:00 pm IST"
+ },
+ {
+   "id": 16,
+   "ht": "Mumbai Indians",
+   "vt": "Gujarat Lions",
+   "loc": "Mumbai",
+   "dt": "Sun | April 16 - 04:00 pm IST"
+ },
+ {
+   "id": 17,
+   "ht": "Royal Challengers Bangalore",
+   "vt": "Rising Pune Supergiant",
+   "loc": "Bengaluru",
+   "dt": "Sun | April 16 - 08:00 pm IST"
+ },
+ {
+   "id": 18,
+   "ht": "Delhi Daredevils",
+   "vt": "Kolkata Knight Riders",
+   "loc": "Delhi",
+   "dt": "Mon | April 17 - 04:00 pm IST"
+ },
+ {
+   "id": 19,
+   "ht": "Sunrisers Hyderabad",
+   "vt": "Kings XI Punjab",
+   "loc": "Hyderabad",
+   "dt": "Mon | April 17 - 08:00 pm IST"
+ },
+ {
+   "id": 20,
+   "ht": "Gujarat Lions",
+   "vt": "Royal Challengers Bangalore",
+   "loc": "Rajkot",
+   "dt": "Tue | April 18 - 08:00 pm IST"
+ },
+ {
+   "id": 21,
+   "ht": "Sunrisers Hyderabad",
+   "vt": "Delhi Daredevils",
+   "loc": "Hyderabad",
+   "dt": "Wed | April 19 - 08:00 pm IST"
+ },
+ {
+   "id": 22,
+   "ht": "Kings XI Punjab",
+   "vt": "Mumbai Indians",
+   "loc": "Indore",
+   "dt": "Thu | April 20 - 08:00 pm IST"
+ },
+ {
+   "id": 23,
+   "ht": "Kolkata Knight Riders",
+   "vt": "Gujarat Lions",
+   "loc": "Kolkata",
+   "dt": "Fri | April 21 - 08:00 pm IST"
+ },
+ {
+   "id": 24,
+   "ht": "Delhi Daredevils",
+   "vt": "Mumbai Indians",
+   "loc": "Delhi",
+   "dt": "Sat | April 22 - 04:00 pm IST"
+ },
+ {
+   "id": 25,
+   "ht": "Rising Pune Supergiant",
+   "vt": "Sunrisers Hyderabad",
+   "loc": "Pune",
+   "dt": "Sat | April 22 - 08:00 pm IST"
+ },
+ {
+   "id": 26,
+   "ht": "Gujarat Lions",
+   "vt": "Kings XI Punjab",
+   "loc": "Rajkot",
+   "dt": "Sun | April 23 - 04:00 pm IST"
+ },
+ {
+   "id": 27,
+   "ht": "Kolkata Knight Riders",
+   "vt": "Royal Challengers Bangalore",
+   "loc": "Kolkata",
+   "dt": "Sun | April 23 - 08:00 pm IST"
+ },
+ {
+   "id": 28,
+   "ht": "Mumbai Indians",
+   "vt": "Rising Pune Supergiant",
+   "loc": "Mumbai",
+   "dt": "Mon | April 24 - 08:00 pm IST"
+ },
+ {
+   "id": 29,
+   "ht": "Royal Challengers Bangalore",
+   "vt": "Sunrisers Hyderabad",
+   "loc": "Bengaluru",
+   "dt": "Tue | April 25 - 08:00 pm IST"
+ },
+ {
+   "id": 30,
+   "ht": "Rising Pune Supergiant",
+   "vt": "Kolkata Knight Riders",
+   "loc": "Pune",
+   "dt": "Wed | April 26 - 08:00 pm IST"
+ },
+ {
+   "id": 31,
+   "ht": "Royal Challengers Bangalore",
+   "vt": "Gujarat Lions",
+   "loc": "Bengaluru",
+   "dt": "Thu | April 27 - 08:00 pm IST"
+ },
+ {
+   "id": 32,
+   "ht": "Kolkata Knight Riders",
+   "vt": "Delhi Daredevils",
+   "loc": "Kolkata",
+   "dt": "Fri | April 28 - 04:00 pm IST"
+ },
+ {
+   "id": 33,
+   "ht": "Kings XI Punjab",
+   "vt": "Sunrisers Hyderabad",
+   "loc": "Mohali",
+   "dt": "Fri | April 28 - 08:00 pm IST"
+ },
+ {
+   "id": 34,
+   "ht": "Rising Pune Supergiant",
+   "vt": "Royal Challengers Bangalore",
+   "loc": "Pune",
+   "dt": "Sat | April 29 - 04:00 pm IST"
+ },
+ {
+   "id": 35,
+   "ht": "Gujarat Lions",
+   "vt": "Mumbai Indians",
+   "loc": "Rajkot",
+   "dt": "Sat | April 29 - 08:00 pm IST"
+ },
+ {
+   "id": 36,
+   "ht": "Kings XI Punjab",
+   "vt": "Delhi Daredevils",
+   "loc": "Mohali",
+   "dt": "Sun | April 30 - 04:00 pm IST"
+ },
+ {
+   "id": 37,
+   "ht": "Sunrisers Hyderabad",
+   "vt": "Kolkata Knight Riders",
+   "loc": "Hyderabad",
+   "dt": "Sun | April 30 - 08:00 pm IST"
+ },
+ {
+   "id": 38,
+   "ht": "Mumbai Indians",
+   "vt": "Royal Challengers Bangalore",
+   "loc": "Mumbai",
+   "dt": "Mon | May 01 - 04:00 pm IST"
+ },
+ {
+   "id": 39,
+   "ht": "Rising Pune Supergiant",
+   "vt": "Gujarat Lions",
+   "loc": "Pune",
+   "dt": "Mon | May 01 - 08:00 pm IST"
+ },
+ {
+   "id": 40,
+   "ht": "Delhi Daredevils",
+   "vt": "Sunrisers Hyderabad",
+   "loc": "Delhi",
+   "dt": "Tue | May 02 - 08:00 pm IST"
+ },
+ {
+   "id": 41,
+   "ht": "Kolkata Knight Riders",
+   "vt": "Rising Pune Supergiant",
+   "loc": "Kolkata",
+   "dt": "Wed | May 03 - 08:00 pm IST"
+ },
+ {
+   "id": 42,
+   "ht": "Delhi Daredevils",
+   "vt": "Gujarat Lions",
+   "loc": "Delhi",
+   "dt": "Thu | May 04 - 08:00 pm IST"
+ },
+ {
+   "id": 43,
+   "ht": "Royal Challengers Bangalore",
+   "vt": "Kings XI Punjab",
+   "loc": "Bengaluru",
+   "dt": "Fri | May 05 - 08:00 pm IST"
+ },
+ {
+   "id": 44,
+   "ht": "Sunrisers Hyderabad",
+   "vt": "Rising Pune Supergiant",
+   "loc": "Hyderabad",
+   "dt": "Sat | May 06 - 04:00 pm IST"
+ },
+ {
+   "id": 45,
+   "ht": "Mumbai Indians",
+   "vt": "Delhi Daredevils",
+   "loc": "Mumbai",
+   "dt": "Sat | May 06 - 08:00 pm IST"
+ },
+ {
+   "id": 46,
+   "ht": "Royal Challengers Bangalore",
+   "vt": "Kolkata Knight Riders",
+   "loc": "Bengaluru",
+   "dt": "Sun | May 07 - 04:00 pm IST"
+ },
+ {
+   "id": 47,
+   "ht": "Kings XI Punjab",
+   "vt": "Gujarat Lions",
+   "loc": "Mohali",
+   "dt": "Sun | May 07 - 08:00 pm IST"
+ },
+ {
+   "id": 48,
+   "ht": "Sunrisers Hyderabad",
+   "vt": "Mumbai Indians",
+   "loc": "Hyderabad",
+   "dt": "Mon | May 08 - 08:00 pm IST"
+ },
+ {
+   "id": 49,
+   "ht": "Kings XI Punjab",
+   "vt": "Kolkata Knight Riders",
+   "loc": "Mohali",
+   "dt": "Tue | May 09 - 08:00 pm IST"
+ },
+ {
+   "id": 50,
+   "ht": "Gujarat Lions",
+   "vt": "Delhi Daredevils",
+   "loc": "Kanpur",
+   "dt": "Wed | May 10 - 08:00 pm IST"
+ },
+ {
+   "id": 51,
+   "ht": "Mumbai Indians",
+   "vt": "Kings XI Punjab",
+   "loc": "Mumbai",
+   "dt": "Thu | May 11 - 08:00 pm IST"
+ },
+ {
+   "id": 52,
+   "ht": "Delhi Daredevils",
+   "vt": "Rising Pune Supergiant",
+   "loc": "Delhi",
+   "dt": "Fri | May 12 - 08:00 pm IST"
+ },
+ {
+   "id": 53,
+   "ht": "Gujarat Lions",
+   "vt": "Sunrisers Hyderabad",
+   "loc": "Kanpur",
+   "dt": "Sat | May 13 - 04:00 pm IST"
+ },
+ {
+   "id": 54,
+   "ht": "Kolkata Knight Riders",
+   "vt": "Mumbai Indians",
+   "loc": "Kolkata",
+   "dt": "Sat | May 13 - 08:00 pm IST"
+ },
+ {
+   "id": 55,
+   "ht": "Rising Pune Supergiant",
+   "vt": "Kings XI Punjab",
+   "loc": "Pune",
+   "dt": "Sun | May 14 - 04:00 pm IST"
+ },
+ {
+   "id": 56,
+   "ht": "Delhi Daredevils",
+   "vt": "Royal Challengers Bangalore",
+   "loc": "Delhi",
+   "dt": "Sun | May 14 - 08:00 pm IST"
+ },
+ {
+   "id": 57,
+   "ht": "TBD",
+   "vt": "TBD",
+   "loc": "TBC",
+   "dt": "Tue | May 16 - 08:00 pm IST"
+ },
+ {
+   "id": 58,
+   "ht": "TBD",
+   "vt": "TBD",
+   "loc": "TBC",
+   "dt": "Wed | May 17 - 08:00 pm IST"
+ },
+ {
+   "id": 59,
+   "ht": "TBD",
+   "vt": "TBD",
+   "loc": "TBC",
+   "dt": "Fri | May 19 - 08:00 pm IST"
+ },
+ {
+   "id": 60,
+   "ht": "TBD",
+   "vt": "TBD",
+   "loc": "Hyderabad",
+   "dt": "Sun | May 21 - 08:00 pm IST"
+ }
+]
