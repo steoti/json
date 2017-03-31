@@ -39,18 +39,6 @@
       },
 	  {
         "TabId": "0",
-        "ImageUrl": "https://s3-ap-southeast-1.amazonaws.com/imagesfundooo/15032016/100x/7.png",
-        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/clips/GirlRoadShow.mp4",
-        "Caption": "Road Show"
-      },
-	  {
-        "TabId": "0",
-        "ImageUrl": "https://s3-ap-southeast-1.amazonaws.com/imagesfundooo/15032016/100x/8.png",
-        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/clips/DifferentDance.mp4",
-        "Caption": "Dance"
-      },
-	  {
-        "TabId": "0",
         "ImageUrl": "https://s3-ap-southeast-1.amazonaws.com/imagesfundooo/15032016/100x/9.png",
         "VideoUrl": "http://contentfundooo.s3.amazonaws.com/bikni/Babes801.mp4",
         "Caption": "Babe 9"
