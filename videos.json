@@ -1,6 +1,6 @@
 {
   "Thumbnails": {
-   "xModels": [
+   "Models": [
       {
         "TabId": "0",
         "ImageUrl": "https://s3-ap-southeast-1.amazonaws.com/imagesfundooo/15032016/100x/1.png",
@@ -56,7 +56,7 @@
         "Caption": "Babe 9"
       }	  
     ],
-	"xExclusive": [
+	"Exclusive": [
       {
         "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly1.png",
@@ -112,7 +112,7 @@
         "Caption": "Punjabi"
       }	  
     ],
-    "xHot": [
+    "Hot": [
       {
         "TabId": "2",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video1.jpg",
@@ -168,7 +168,7 @@
         "Caption": "Cake"
       }
     ],
-    "xDance": [
+    "Dance": [
       {
         "TabId": "3",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video1.jpg",
@@ -224,7 +224,7 @@
         "Caption": "Cute Kid"
       }	    
     ],
-	"xFunny": [
+	"Funny": [
       {
         "TabId": "0",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.jpg",

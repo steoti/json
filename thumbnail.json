@@ -1,112 +1,168 @@
 {
   "Thumbnails": {
-    "Funny": [
+   "Funny": [
       {
-        "TabId": "0",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.mp4",
         "Caption": "Love"
       },
       {
-        "TabId": "0",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video2.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video2.mp4",
         "Caption": "Understanding"
       },
       {
-        "TabId": "0",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video3.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video3.mp4",
         "Caption": "Ball"
       },
       {
-        "TabId": "0",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video5.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video5.mp4",
         "Caption": "Mango"
       },
       {
-        "TabId": "0",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video6.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video6.mp4",
         "Caption": "Drink"
       },
       {
-        "TabId": "0",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video8.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video8.mp4",
         "Caption": "Hidden Chips"
       },
 	  {
-        "TabId": "0",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.mp4",
         "Caption": "Wow Dance"
       },
 	  {
-        "TabId": "0",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.mp4",
         "Caption": "Don't"
       },
 	  {
-        "TabId": "0",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.mp4",
         "Caption": "Bottle"
       }	  
     ],
-    "Prank": [
+	"Exclusive": [
       {
         "TabId": "1",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly1.png",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly1.mp4",
+        "Caption": "Dance 1"
+      },
+      {
+        "TabId": "1",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly2.png",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly2.mp4",
+        "Caption": "Dance 2"
+      },
+      {
+        "TabId": "1",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly3.png",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly3.mp4",
+        "Caption": "Dance 3"
+      },
+      {
+        "TabId": "1",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly4.png",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly4.mp4",
+        "Caption": "Dance 4"
+      },
+      {
+        "TabId": "1",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly5.png",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly5.mp4",
+        "Caption": "Dance 5"
+      },
+      {
+        "TabId": "1",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video3.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video3.mp4",
+        "Caption": "Dance 6"
+      },
+	  {
+        "TabId": "1",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.mp4",
+        "Caption": "Wow Dance"
+      },
+	  {
+        "TabId": "1",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video2.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video2.mp4",
+        "Caption": "Cheerleaders"
+      },
+	  {
+        "TabId": "1",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.mp4",
+        "Caption": "Punjabi"
+      }	  
+    ],
+    "Prank": [
+      {
+        "TabId": "2",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video1.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video1.mp4",
         "Caption": "Blind"
       },
       {
-        "TabId": "1",
+        "TabId": "2",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.mp4",
         "Caption": "Bottle"
       },
       {
-        "TabId": "1",
+        "TabId": "2",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video3.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video3.mp4",
         "Caption": "Bed"
       },
       {
-        "TabId": "1",
+        "TabId": "2",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video4.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video4.mp4",
         "Caption": "Run.."
       },
       {
-        "TabId": "1",
+        "TabId": "2",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.mp4",
         "Caption": "Prank"
       },
       {
-        "TabId": "1",
+        "TabId": "2",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video6.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video6.mp4",
         "Caption": "Soap"
       },
       {
-        "TabId": "1",
+        "TabId": "2",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video7.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video7.mp4",
         "Caption": "Legs"
       },
       {
-        "TabId": "1",
+        "TabId": "2",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video8.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video8.mp4",
         "Caption": "Ouch"
       },
 	  {
-        "TabId": "1",
+        "TabId": "2",
 		"ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video9.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video9.mp4",
         "Caption": "Cake"
@@ -114,55 +170,55 @@
     ],
     "Dance": [
       {
-        "TabId": "2",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video1.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video1.mp4",
         "Caption": "Baby Doll"
       },
       {
-        "TabId": "2",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video2.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video2.mp4",
         "Caption": "NBA Cheerleaders"
       },
       {
-        "TabId": "2",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video3.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video3.mp4",
         "Caption": "Arabic Dance"
       },
       {
-        "TabId": "2",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.mp4",
         "Caption": "Cricketers Punjabi"
       },
 	  {
-		"TabId": "2",
+		"TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.mp4",
         "Caption": "In Game"
 	  },
 	  {
-		"TabId": "2",
+		"TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video7.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video7.mp4",
         "Caption": "Nagin"
 	  },
 	  {
-		"TabId": "2",
+		"TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video6.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video6.mp4",
         "Caption": "Groom"
 	  },
 	  {
-        "TabId": "2",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video8.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video8.mp4",
         "Caption": "Pokemon"
       },	
 	  {
-        "TabId": "2",
+        "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video5.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video5.mp4",
         "Caption": "Cute Kid"
