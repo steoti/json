@@ -39,9 +39,9 @@
       },
 	  {
         "TabId": "1",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.mp4",
-        "Caption": "Wow Dance"
+        "ImageUrl": "http://imagesfundooo.s3.amazonaws.com/dance/128x/300-200-52ArabicBelleDance.png",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/dance/52arabicbelledance.mp4",
+        "Caption": "Dance 7"
       },
 	  {
         "TabId": "1",
@@ -51,9 +51,9 @@
       },
 	  {
         "TabId": "1",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.mp4",
-        "Caption": "Punjabi"
+        "ImageUrl": "http://imagesfundooo.s3.amazonaws.com/dance/128x/300-200-54ArabicBelleDance.png",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/dance/53arabicbelledance.mp4",
+        "Caption": "Dance 8"
       }	  
     ],
     "Hot": [
