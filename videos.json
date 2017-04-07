@@ -147,7 +147,7 @@
 		"TabId": "3",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video7.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video7.mp4",
-        "Caption": "Nagin"
+        "Caption": "Snake Dance"
 	  },
 	  {
 		"TabId": "3",
@@ -169,7 +169,13 @@
       }	    
     ],
 	   "Models": [
-      {
+       {
+        "TabId": "0",
+        "ImageUrl": "http://imagesfundooo.s3.amazonaws.com/clips/128x/clips13.jpeg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/clips/clips13.mp4",
+        "Caption": "EYE CANDY"
+      },
+      {	   
         "TabId": "0",
         "ImageUrl": "https://s3-ap-southeast-1.amazonaws.com/imagesfundooo/15032016/100x/1.png",
         "VideoUrl": "http://contentfundooo.s3.amazonaws.com/bikni/Babes692.mp4",
