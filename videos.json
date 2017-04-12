@@ -1,62 +1,6 @@
 {
   "Thumbnails": {
-  	"Exclusive": [
-      {
-        "TabId": "1",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly1.png",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly1.mp4",
-        "Caption": "Dance 1"
-      },
-      {
-        "TabId": "1",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly2.png",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly2.mp4",
-        "Caption": "Dance 2"
-      },
-      {
-        "TabId": "1",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly3.png",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly3.mp4",
-        "Caption": "Dance 3"
-      },
-      {
-        "TabId": "1",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly4.png",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly4.mp4",
-        "Caption": "Dance 4"
-      },
-      {
-        "TabId": "1",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly5.png",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_belly5.mp4",
-        "Caption": "Dance 5"
-      },
-      {
-        "TabId": "1",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video3.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video3.mp4",
-        "Caption": "Dance 6"
-      },
-	  {
-        "TabId": "1",
-        "ImageUrl": "http://imagesfundooo.s3.amazonaws.com/dance/128x/300-200-52ArabicBelleDance.png",
-        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/dance/52arabicbelledance.mp4",
-        "Caption": "Dance 7"
-      },
-	  {
-        "TabId": "1",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video2.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video2.mp4",
-        "Caption": "Cheerleaders"
-      },
-	  {
-        "TabId": "1",
-        "ImageUrl": "http://imagesfundooo.s3.amazonaws.com/dance/128x/300-200-54ArabicBelleDance.png",
-        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/dance/53arabicbelledance.mp4",
-        "Caption": "Dance 8"
-      }	  
-    ],
-    "Hot": [
+  	  "Prank": [
       {
         "TabId": "2",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video1.jpg",
@@ -127,12 +71,6 @@
       },
       {
         "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video3.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video3.mp4",
-        "Caption": "Arabic Dance"
-      },
-      {
-        "TabId": "3",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video4.mp4",
         "Caption": "Cricketers Punjabi"
@@ -167,56 +105,6 @@
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/dance_video5.mp4",
         "Caption": "Cute Kid"
       }	    
-    ],
-	   "Models": [
-       {
-        "TabId": "0",
-        "ImageUrl": "http://imagesfundooo.s3.amazonaws.com/clips/128x/clips13.jpeg",
-        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/clips/clips13.mp4",
-        "Caption": "EYE CANDY"
-      },
-      {	   
-        "TabId": "0",
-        "ImageUrl": "https://s3-ap-southeast-1.amazonaws.com/imagesfundooo/15032016/100x/1.png",
-        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/bikni/Babes692.mp4",
-        "Caption": "Babe 1"
-      },
-      {
-        "TabId": "0",
-        "ImageUrl": "https://s3-ap-southeast-1.amazonaws.com/imagesfundooo/15032016/100x/2.png",
-        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/playboy/Alluring_Haley_Sorenson_2G.3gp",
-        "Caption": "Model 2"
-      },
-      {
-        "TabId": "0",
-        "ImageUrl": "https://s3-ap-southeast-1.amazonaws.com/imagesfundooo/15032016/100x/3.png",
-        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/playboy/Stunning_Jade_Bryce_HD.3gp",
-        "Caption": "Model 3"
-      },
-      {
-        "TabId": "0",
-        "ImageUrl": "https://s3-ap-southeast-1.amazonaws.com/imagesfundooo/15032016/100x/4.png",
-        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/babes/2/320p/NiceGirl.mp4",
-        "Caption": "Babe 4"
-      },
-      {
-        "TabId": "0",
-        "ImageUrl": "https://s3-ap-southeast-1.amazonaws.com/imagesfundooo/15032016/100x/5.png",
-        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/dance/41arabicbelledance.mp4",
-        "Caption": "Model Dance"
-      },
-      {
-        "TabId": "0",
-        "ImageUrl": "https://s3-ap-southeast-1.amazonaws.com/imagesfundooo/15032016/100x/6.png",
-        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/clips/SunnyLeonnyWishes.mp4",
-        "Caption": "Sunny Wish"
-      },
-	  {
-        "TabId": "0",
-        "ImageUrl": "https://s3-ap-southeast-1.amazonaws.com/imagesfundooo/15032016/100x/9.png",
-        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/bikni/Babes801.mp4",
-        "Caption": "Babe 9"
-      }	  
     ],
 	"Funny": [
       {
