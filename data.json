@@ -142,24 +142,7 @@
         "ImageUrl": "http://imagesfundooo.s3.amazonaws.com/2017/3.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video8.mp4",
         "Caption": "Hidden Chips"
-      },
-	  {
-        "TabId": "0",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.mp4",
-        "Caption": "Wow Dance"
-      },
-	  {
-        "TabId": "0",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.mp4",
-        "Caption": "Don't"
-      },
-	  {
-        "TabId": "0",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.mp4",
-        "Caption": "Bottle"
+      
       }	  
     ]
   }
