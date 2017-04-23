@@ -7,7 +7,7 @@
         "VideoUrl": "http://contentfundooo.s3.amazonaws.com/babes/2/320p/3.mp4",
         "Caption": "Garry | Modelshoot",
 		"Duration":"0:41",
-		"Views":"584 views 3 hours ago"
+		"Views":"584 views 2 hours ago"
       },
       {
         "TabId": "0",
@@ -15,7 +15,7 @@
         "VideoUrl": "http://contentfundooo.s3.amazonaws.com/babes/2/320p/6.mp4",
         "Caption": "Alex | Modelshoot",
 		"Duration":"0:41",
-		"Views":"599 views 4 hours ago"
+		"Views":"599 views 2 hours ago"
       },
       {
         "TabId": "0",
@@ -98,14 +98,14 @@
 		"Views":"1019 views 9 hours ago"
 	  }
     ],
-	"Funny": [
+	"Fashion": [
       {
         "TabId": "1",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.jpg",
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.mp4",
         "Caption": "Love",
 		"Duration":"1:00",
-		"Views":"2,561,154 views 1 hours ago"
+		"Views":"2 views 1 hours ago"
       },
       {
         "TabId": "1",
@@ -113,7 +113,7 @@
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video2.mp4",
         "Caption": "Understanding",
 		"Duration":"1:00",
-		"Views":"2,561,154 views 1 hours ago"
+		"Views":"2 views 1 hours ago"
       },
       {
         "TabId": "1",
@@ -121,7 +121,7 @@
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video3.mp4",
         "Caption": "Ball",
 		"Duration":"1:00",
-		"Views":"2,561,154 views 3 hours ago"
+		"Views":"5 views 3 hours ago"
       },
       {
         "TabId": "1",
@@ -129,7 +129,7 @@
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video5.mp4",
         "Caption": "Mango",
 		"Duration":"1:00",
-		"Views":"2,561,154 views 3 hours ago"
+		"Views":"7 views 3 hours ago"
       },
       {
         "TabId": "1",
@@ -137,7 +137,7 @@
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video6.mp4",
         "Caption": "Drink",
 		"Duration":"1:00",
-		"Views":"2,561,154 views 5 hours ago"
+		"Views":"9 views 5 hours ago"
       },
       {
         "TabId": "1",
@@ -145,7 +145,7 @@
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video8.mp4",
         "Caption": "Hidden Chips",
 		"Duration":"1:00",
-		"Views":"2,561,154 views 5 hours ago"
+		"Views":"11 views 5 hours ago"
       },
 	  {
         "TabId": "1",
@@ -153,7 +153,7 @@
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.mp4",
         "Caption": "Wow Dance",
 		"Duration":"1:00",
-		"Views":"2,561,154 views 5 hours ago"
+		"Views":"11 views 5 hours ago"
       },
 	  {
         "TabId": "1",
@@ -161,7 +161,7 @@
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.mp4",
         "Caption": "Don't",
 		"Duration":"1:00",
-		"Views":"2,561,154 views 5 hours ago"
+		"Views":"16 views 5 hours ago"
       },
 	  {
         "TabId": "1",
@@ -169,7 +169,155 @@
         "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.mp4",
         "Caption": "Bottle",
 		"Duration":"1:00",
-		"Views":"2,561,154 views 8 hours ago"
+		"Views":"22 views 8 hours ago"
+      }	  
+    ],
+	"Humour": [
+      {
+        "TabId": "2",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.mp4",
+        "Caption": "Love",
+		"Duration":"1:00",
+		"Views":"5 views 1 hours ago"
+      },
+      {
+        "TabId": "2",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video2.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video2.mp4",
+        "Caption": "Understanding",
+		"Duration":"1:00",
+		"Views":"4 views 1 hours ago"
+      },
+      {
+        "TabId": "2",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video3.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video3.mp4",
+        "Caption": "Ball",
+		"Duration":"1:00",
+		"Views":"1 views 3 hours ago"
+      },
+      {
+        "TabId": "2",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video5.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video5.mp4",
+        "Caption": "Mango",
+		"Duration":"1:00",
+		"Views":"2 views 3 hours ago"
+      },
+      {
+        "TabId": "2",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video6.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video6.mp4",
+        "Caption": "Drink",
+		"Duration":"1:00",
+		"Views":"4 views 5 hours ago"
+      },
+      {
+        "TabId": "2",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video8.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video8.mp4",
+        "Caption": "Hidden Chips",
+		"Duration":"1:00",
+		"Views":"5 views 5 hours ago"
+      },
+	  {
+        "TabId": "2",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.mp4",
+        "Caption": "Wow Dance",
+		"Duration":"1:00",
+		"Views":"7 views 5 hours ago"
+      },
+	  {
+        "TabId": "2",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.mp4",
+        "Caption": "Don't",
+		"Duration":"1:00",
+		"Views":"9 views 5 hours ago"
+      },
+	  {
+        "TabId": "2",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.mp4",
+        "Caption": "Bottle",
+		"Duration":"1:00",
+		"Views":"11 views 8 hours ago"
+      }	  
+    ],
+	"Hot Dance": [
+      {
+        "TabId": "3",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.mp4",
+        "Caption": "Love",
+		"Duration":"1:00",
+		"Views":"5 views 1 hours ago"
+      },
+      {
+        "TabId": "3",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video2.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video2.mp4",
+        "Caption": "Understanding",
+		"Duration":"1:00",
+		"Views":"4 views 1 hours ago"
+      },
+      {
+        "TabId": "3",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video3.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video3.mp4",
+        "Caption": "Ball",
+		"Duration":"1:00",
+		"Views":"1 views 3 hours ago"
+      },
+      {
+        "TabId": "3",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video5.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video5.mp4",
+        "Caption": "Mango",
+		"Duration":"1:00",
+		"Views":"2 views 3 hours ago"
+      },
+      {
+        "TabId": "3",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video6.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video6.mp4",
+        "Caption": "Drink",
+		"Duration":"1:00",
+		"Views":"4 views 5 hours ago"
+      },
+      {
+        "TabId": "3",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video8.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video8.mp4",
+        "Caption": "Hidden Chips",
+		"Duration":"1:00",
+		"Views":"5 views 5 hours ago"
+      },
+	  {
+        "TabId": "3",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.mp4",
+        "Caption": "Wow Dance",
+		"Duration":"1:00",
+		"Views":"7 views 5 hours ago"
+      },
+	  {
+        "TabId": "3",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.mp4",
+        "Caption": "Don't",
+		"Duration":"1:00",
+		"Views":"9 views 5 hours ago"
+      },
+	  {
+        "TabId": "3",
+        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.jpg",
+        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.mp4",
+        "Caption": "Bottle",
+		"Duration":"1:00",
+		"Views":"11 views 8 hours ago"
       }	  
     ]
   }

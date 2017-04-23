@@ -1,0 +1,17 @@
+{
+"init":	{
+	  "data_source":"https://firebasestorage.googleapis.com/v0/b/hot-videos-c9f19.appspot.com/o/data.json?alt=media&token=964631d4-57fb-4341-811a-05dfae8e4035",
+	  "grid_columns": "1",
+	  "app_background_color":"FF1493",
+	  "hide_upload":false,
+	  "hide_download":false,
+	  "hide_ads":false,
+	  "hide_rating":false,
+	  "hide_views":true,
+	  "hide_duration":false,
+	  "app_tab_back_color":"00000",
+	  "hide_video_name":false,
+	  "hide_rotation_h":true,
+	  "hide_rotation_v":false
+	}
+}
