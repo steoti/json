@@ -2,14 +2,14 @@
 "init":	{
 	  "data_source":"https://raw.githubusercontent.com/steoti/json/master/data.json",
 	  "grid_columns": "1",
-	  "app_background_color":"FF1493",
+	  "app_background_color":"000000",
 	  "hide_upload":false,
 	  "hide_download":false,
 	  "hide_ads":false,
 	  "hide_rating":false,
 	  "hide_views":true,
 	  "hide_duration":false,
-	  "app_tab_back_color":"000000",
+	  "app_tab_back_color":"FFFFFF",
 	  "hide_video_name":false,
 	  "hide_rotation_h":true,
 	  "hide_rotation_v":false
