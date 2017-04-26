@@ -98,7 +98,7 @@
 		"Views":"1019 views 9 hours ago"
 	  }
     ],
-	"Funny": [
+	"Humour": [
       {
         "TabId": "1",
         "ImageUrl": "http://imagevd.s3.amazonaws.com/10GreatestPranks.jpg",
@@ -170,9 +170,7 @@
         "Caption": "Facebook | Funny ",
 		"Duration":"1:00",
 		"Views":"22 views 8 hours ago"
-      }	  
-    ],
-	"Humour": [
+      },	  
       {
         "TabId": "2",
         "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.jpg",
