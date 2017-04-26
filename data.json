@@ -173,49 +173,49 @@
       },	  
       {
         "TabId": "2",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.mp4",
-        "Caption": "Love",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/Footballya.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/pranks/Footballya.mp4",
+        "Caption": "Football Hit | Funny ",
 		"Duration":"1:00",
 		"Views":"5 views 1 hours ago"
       },
       {
         "TabId": "2",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video2.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video2.mp4",
-        "Caption": "Understanding",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/FunnyBraAdsTwistAtTheEnd.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/pranks/FunnyBraAdsTwistAtTheEnd.mp4",
+        "Caption": "BRA ADS TWISt AT THE END | Funny ",
 		"Duration":"1:00",
 		"Views":"4 views 1 hours ago"
       },
       {
         "TabId": "2",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video3.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video3.mp4",
-        "Caption": "Ball",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/FunnyPrank8.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/pranks/FunnyPrank8.mp4",
+        "Caption": "Dead Cooku Prank | Funny ",
 		"Duration":"1:00",
 		"Views":"1 views 3 hours ago"
       },
       {
         "TabId": "2",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video5.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video5.mp4",
-        "Caption": "Mango",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/HessoLuck.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/trend/He%27ssoLuck.mp4",
+        "Caption": "HE IS SO Lucky | Wife Killing  | Funny ",
 		"Duration":"1:00",
 		"Views":"2 views 3 hours ago"
       },
       {
         "TabId": "2",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video6.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video6.mp4",
-        "Caption": "Drink",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/HoneyRajainNewFunnyVideo.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/trend/HoneyRajainNewFunnyVideo.mp4",
+        "Caption": "Loosing Every Thing | Road Loot | Funny",
 		"Duration":"1:00",
 		"Views":"4 views 5 hours ago"
       },
       {
         "TabId": "2",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video8.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video8.mp4",
-        "Caption": "Hidden Chips",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/IWantSunnyLeone.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/trend/IWantSunnyLeone.mp4",
+        "Caption": "Sunny Leone | I WANT SUNNY | Funny ",
 		"Duration":"1:00",
 		"Views":"5 views 5 hours ago"
       },
@@ -229,17 +229,17 @@
       },
 	  {
         "TabId": "2",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.mp4",
-        "Caption": "Don't",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/JokerPrankwithLady.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/pranks/JokerPrankwithLady.mp4",
+        "Caption": "JOKER PRANK WITH LADY | FUNNY",
 		"Duration":"1:00",
 		"Views":"9 views 5 hours ago"
       },
 	  {
         "TabId": "2",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.mp4",
-        "Caption": "Bottle",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/OnlyShampoo.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/pranks/OnlyShampoo.mp4",
+        "Caption": "SHAMPOO BOTTLE PRANK | FUNNY",
 		"Duration":"1:00",
 		"Views":"11 views 8 hours ago"
       }	  
