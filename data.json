@@ -244,79 +244,71 @@
 		"Views":"11 views 8 hours ago"
       }	  
     ],
-	"Belly Dance": [
+	"Dancing": [
       {
         "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video1.mp4",
-        "Caption": "Love",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/ABellyDanceFloorwork.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/dance/ABellyDanceFloorwork.mp4",
+        "Caption": "Belly Floor Dance Work | Belly Dancing",
 		"Duration":"1:00",
 		"Views":"5 views 1 hours ago"
       },
       {
         "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video2.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video2.mp4",
-        "Caption": "Understanding",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/BELLYDANCEAbdomensMagnificentAbdomens.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/dance/BELLYDANCEAbdomensMagnificentAbdomens.mp4",
+        "Caption": "Magnificent Abdomen Belly Dance | Belly Dacncing",
 		"Duration":"1:00",
 		"Views":"4 views 1 hours ago"
       },
       {
         "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video3.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video3.mp4",
-        "Caption": "Ball",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/BellyDanceEast.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/dance/BellyDanceEast.mp4",
+        "Caption": "Belly Dance From East | Belly Dancing",
 		"Duration":"1:00",
 		"Views":"1 views 3 hours ago"
       },
       {
         "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video5.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video5.mp4",
-        "Caption": "Mango",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/BellyDanceShowataWedding.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/dance/BellyDanceShowataWedding.mp4",
+        "Caption": "Belly Dancer Show In Wedding | Belly Dancing",
 		"Duration":"1:00",
 		"Views":"2 views 3 hours ago"
       },
       {
         "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video6.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video6.mp4",
-        "Caption": "Drink",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/HotBellyDancebyaprofessionaldancer.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/dance/HotBellyDancebyaprofessionaldancer.mp4",
+        "Caption": "ProfessionalBellyDancers | Belly Dancing",
 		"Duration":"1:00",
 		"Views":"4 views 5 hours ago"
       },
       {
         "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video8.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video8.mp4",
-        "Caption": "Hidden Chips",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/LAILAMAINLAILAKOREANMIX%28REMIX%29.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/dance/LAILAMAINLAILAKOREANMIX%28REMIX%29.mp4",
+        "Caption": "Laila Laila Korean Mix Dance | Belly Dancing",
 		"Duration":"1:00",
 		"Views":"5 views 5 hours ago"
       },
 	  {
         "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/funny_video9.mp4",
-        "Caption": "Wow Dance",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/LailaLailaDance.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/dance/LailaLailaDance.mp4",
+        "Caption": "Laila Song Dance | Dance Video",
 		"Duration":"1:00",
 		"Views":"7 views 5 hours ago"
       },
 	  {
         "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video5.mp4",
-        "Caption": "Don't",
+        "ImageUrl": "http://imagevd.s3.amazonaws.com/learnhowtodanceBellyDance.jpg",
+        "VideoUrl": "http://contentfundooo.s3.amazonaws.com/dance/learnhowtodanceBellyDance.mp4",
+        "Caption": "Learn How to Belly Dance | Belly Dancing",
 		"Duration":"1:00",
 		"Views":"9 views 5 hours ago"
-      },
-	  {
-        "TabId": "3",
-        "ImageUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.jpg",
-        "VideoUrl": "http://xvideosapp.s3-us-west-1.amazonaws.com/prank_video2.mp4",
-        "Caption": "Bottle",
-		"Duration":"1:00",
-		"Views":"11 views 8 hours ago"
-      }	  
+      }  
     ]
   }
 }
