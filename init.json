@@ -12,6 +12,10 @@
 	  "app_tab_back_color":"FFFFFF",
 	  "hide_video_name":false,
 	  "hide_rotation_h":true,
-	  "hide_rotation_v":false
+	  "hide_rotation_v":false,
+	  "download_color":"000000",
+	  "upload_color":"000000",
+	  "download_size":"25dp",
+	  "upload_size":"25dp"
 	}
 }
