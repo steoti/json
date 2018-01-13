@@ -15,7 +15,7 @@
 			"Description": "",
 			"ContentInfo": "https://i.ytimg.com/vi/Vda2NbYQe2U/default.jpg",
 			"HideAd": "false",
-			"HideScreen": "false",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -23,7 +23,7 @@
 			"Title": "Full Highlights",
 			"Description": "",
 			"ContentInfo": "https://i.ytimg.com/vi/_Ii-1K8919A/default.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
