@@ -1,5 +1,4 @@
-{
-	"cricketlivescore": [
+[
 		{
 			"Link": "screen0",
 			"Title": "Cricket Live Score",
@@ -90,5 +89,4 @@
 			"HideScreen": "false",
 			"Type":"sheet"
 		}
-	]
-}
+]
