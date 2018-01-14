@@ -1,4 +1,7 @@
 {
+	"settings": {
+		"HomeOnLoad":"true"
+	},
 	"home": [
 		{
 			"Link": "screen0",
