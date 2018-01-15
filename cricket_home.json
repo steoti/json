@@ -1,6 +1,6 @@
 {
 	"settings": {
-		"HomeOnLoad":"false"
+		"HomeOnLoad":"true"
 	},
 	"home": [
 		{
@@ -9,7 +9,7 @@
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricket.jpg",
 			"HideAd": "false",
-			"HideScreen": "true",
+			"HideScreen": "false",
 			"Type":"sheet"
 		},
 		{
@@ -18,7 +18,7 @@
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricket.jpg",
 			"HideAd": "false",
-			"HideScreen": "true",
+			"HideScreen": "false",
 			"Type":"sheet"
 		},
 		{
