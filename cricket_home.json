@@ -16,7 +16,7 @@
 			"Link": "screen1",
 			"Title": "Watch Live Cricket",
 			"Description": "",
-			"ContentInfo": "https://i.ytimg.com/vi/Vda2NbYQe2U/default.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricket1.jpg",
 			"HideAd": "false",
 			"HideScreen": "true",
 			"Type":"sheet"
@@ -25,7 +25,7 @@
 			"Link": "screen2",
 			"Title": "Full Highlights",
 			"Description": "",
-			"ContentInfo": "https://i.ytimg.com/vi/_Ii-1K8919A/default.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/1.jpg",
 			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
@@ -34,7 +34,7 @@
 			"Link": "screen3",
 			"Title": "IPL",
 			"Description": "",
-			"ContentInfo": "https://i.ytimg.com/vi/BnYLgXte5gQ/default.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/2.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
@@ -43,7 +43,7 @@
 			"Link": "screen4",
 			"Title": "Best Cricket Moments",
 			"Description": "India vs Sri Lanka Final Last Over - Dhoni made India won.",
-			"ContentInfo": "https://i.ytimg.com/vi/L-vxUt7qpHA/default.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/best-cricketmom.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
@@ -61,7 +61,7 @@
 			"Link": "screen6",
 			"Title": "Cricket Sportsmanship Moments",
 			"Description": "",
-			"ContentInfo": "https://i.ytimg.com/vi/iJ6o2ItXu4o/default.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricket1.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
@@ -70,7 +70,7 @@
 			"Link": "screen7",
 			"Title": "6 Sixes",
 			"Description": "",
-			"ContentInfo": "https://i.ytimg.com/vi/hI7zY0gERZg/default.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/six.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
@@ -79,7 +79,7 @@
 			"Link": "screen8",
 			"Title": "Top Catches",
 			"Description": "",
-			"ContentInfo": "https://i.ytimg.com/vi/xw19JDfYtCM/default.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/top-catches.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
@@ -88,7 +88,7 @@
 			"Link": "screen9",
 			"Title": "Funny Cricket Moments",
 			"Description": "",
-			"ContentInfo": "https://i.ytimg.com/vi/jyNb0SWC91s/default.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
