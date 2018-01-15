@@ -1,7 +1,7 @@
 {
 	"settings": {
-		"HomeOnLoad":"false",
-		"HomeOnClick":"false"
+		"HomeOnLoad":"true",
+		"HomeOnClick":"true"
 	},
 	"home": [
 		{
@@ -9,8 +9,8 @@
 			"Title": "Cricket Live Score",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricket.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -18,8 +18,8 @@
 			"Title": "Watch Live Cricket",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricket.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -27,7 +27,7 @@
 			"Title": "Full Highlights",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/six.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -36,8 +36,8 @@
 			"Title": "IPL",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/2.jpg",
-			"HideAd": "false",
-			"HideScreen": "true",
+			"HideAd": "true",
+			"HideScreen": "false",
 			"Type":"sheet"
 		},
 		{
@@ -45,7 +45,7 @@
 			"Title": "Best Cricket Moments",
 			"Description": "India vs Sri Lanka Final Last Over - Dhoni made India won.",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/best-cricketmom.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -54,7 +54,7 @@
 			"Title": "World Cup",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/Cricket-World-Cup.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -63,7 +63,7 @@
 			"Title": "Cricket Sportsmanship Moments",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricket1.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -72,7 +72,7 @@
 			"Title": "6 Sixes",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/1.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -81,7 +81,7 @@
 			"Title": "Top Catches",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/top-catches.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
