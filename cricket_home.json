@@ -1,7 +1,7 @@
 {
 	"settings": {
-		"HomeOnLoad":"true",
-		"HomeOnClick":"true"
+		"HomeOnLoad":"false",
+		"HomeOnClick":"false"
 	},
 	"home": [
 		{
