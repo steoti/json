@@ -7,7 +7,7 @@
 			"Link": "screen0",
 			"Title": "Cricket Live Score",
 			"Description": "",
-			"ContentInfo": "https://i.ytimg.com/vi/n4IEqXWtcTI/default.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricket.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
@@ -16,7 +16,7 @@
 			"Link": "screen1",
 			"Title": "Watch Live Cricket",
 			"Description": "",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricket1.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricket.jpg",
 			"HideAd": "false",
 			"HideScreen": "true",
 			"Type":"sheet"
@@ -25,7 +25,7 @@
 			"Link": "screen2",
 			"Title": "Full Highlights",
 			"Description": "",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricket1.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/six.jpg",
 			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
@@ -61,7 +61,7 @@
 			"Link": "screen6",
 			"Title": "Cricket Sportsmanship Moments",
 			"Description": "",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/1.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricket1.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
@@ -70,7 +70,7 @@
 			"Link": "screen7",
 			"Title": "6 Sixes",
 			"Description": "",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/six.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/1.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
