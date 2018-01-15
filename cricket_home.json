@@ -36,7 +36,7 @@
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/2.jpg",
 			"HideAd": "false",
-			"HideScreen": "false",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -90,7 +90,7 @@
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
 			"HideAd": "false",
-			"HideScreen": "false",
+			"HideScreen": "true
 			"Type":"sheet"
 		}
 	]
