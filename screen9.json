@@ -1,0 +1,58 @@
+{
+	"home": [
+		{
+			"Link": "http://contentfundooo.s3.amazonaws.com/crick/funnycricketmoments/TOP%20FUNNIEST%20MOMENTS%20IN%20CRICKET%20HISTORY%202016.mp4",
+			"Title": "",	
+			"Description": "TOP FUNNIEST MOMENTS IN CRICKET HISTORY | 2016",	
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/funnycricketmoments/TOP%20FUNNIEST%20MOMENTS%20IN%20CRICKET%20HISTORY%202016.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"stream"
+		},
+		{
+			"Link": "http://contentfundooo.s3.amazonaws.com/crick/funnycricketmoments/TOP%2010%20FUNNIEST%20MOMENTS%20IN%20CRICKET%20HISTORY%20of%20All%20Time%20Funny%20Moment%20in%20Cricket%20.mp4",
+			"Title": "",
+			"Description": "TOP 10 FUNNIEST MOMENTS IN CRICKET HISTORY of All Time",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/fullhighlights/Highlights%20India%20Won%20World%20Cup%202011.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"stream"
+		},
+		{
+			"Link": "http://contentfundooo.s3.amazonaws.com/crick/funnycricketmoments/13%20Hilarious%20Moments%20in%20Cricket%20Ever%202017.mp4",
+			"Title": "",
+			"Description": "13 Hilarious Moments in Cricket Ever 2017",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/funnycricketmoments/13%20Hilarious%20Moments%20in%20Cricket%20Ever%202017.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"stream"
+		},
+		{
+			"Link": "http://contentfundooo.s3.amazonaws.com/crick/funnycricketmoments/Funniest%20moments%20in%20cricket%20ever.mp4",
+			"Title": "",
+			"Description": "Funniest moments in cricket ever",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/funnycricketmoments/Funniest%20moments%20in%20cricket%20ever.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"stream"
+		},
+		{
+			"Link": "http://contentfundooo.s3.amazonaws.com/crick/funnycricketmoments/Most%20Funniest%20Moments%20In%20the%20History%20of%20Cricket%20Ever%202015.mp4",
+			"Title": "",
+			"Description": "Most Funniest Moments In the History of Cricket Ever 2015",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/funnycricketmoments/Most%20Funniest%20Moments.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"stream"
+		},
+		{
+			"Link": "http://contentfundooo.s3.amazonaws.com/crick/funnycricketmoments/TOP%20FUNNIEST%20MOMENTS%20IN%20CRICKET%20HISTORY%202016.mp4",
+			"Title": "",
+			"Description": "TOP FUNNIEST MOMENTS IN CRICKET HISTORY 2016",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/funnycricketmoments/TOP%20FUNNIEST%20MOMENTS%20IN%20CRICKET%20HISTORY%202016.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"stream"
+		}
+	]
+}
