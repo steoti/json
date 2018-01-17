@@ -8,9 +8,9 @@
 			"Link": "screen0",
 			"Title": "Cricket Live Score",
 			"Description": "",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/livecricket.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/scroecard.jpg",
 			"HideAd": "true",
-			"HideScreen": "true",
+			"HideScreen": "false",
 			"Type":"sheet"
 		},
 		{
