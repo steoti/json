@@ -1,0 +1,53 @@
+{
+	"settings": {
+		"HomeOnLoad":"false",
+		"HomeOnClick":"false"
+	},
+	"home": [
+		{
+			"Link": "cricketnew0",
+			"Title": "Cricket Live ",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/scroecard.jpg",
+			"HideAd": "true",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
+		{
+			"Link": "cricketnew1",
+			"Title": "Sachin Tendulkar Best",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/sportsmanship.jpg",
+			"HideAd": "true",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
+		{
+			"Link": "cricketnew2",
+			"Title": "Ms Dhoni Best",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/six.jpg",
+			"HideAd": "true",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
+		{
+			"Link": "cricketnew3",
+			"Title": "Virat Kohli Best",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/top-catches.jpg",
+			"HideAd": "true",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
+		{
+			"Link": "cricketnew4",
+			"Title": "ricky ponting Best",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
+			"HideAd": "true",
+			"HideScreen": "true",
+			"Type":"sheet"
+		}
+	]
+}
