@@ -1,7 +1,7 @@
 {
 	"settings": {
 		"HomeOnLoad":"false",
-		"HomeOnClick":"false"
+		"HomeOnClick":"true"
 	},
 	"home": [
 		{
@@ -15,7 +15,7 @@
 		},
 		{
 			"Link": "screen1",
-			"Title": "Watch Live Cricket",
+			"Title": "South Africa vs India ",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricketlivescore.jpg",
 			"HideAd": "false",
