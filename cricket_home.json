@@ -9,7 +9,7 @@
 			"Title": "Cricket Live Score",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/scroecard.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -18,7 +18,7 @@
 			"Title": "South Africa vs India ",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricketlivescore.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -27,7 +27,7 @@
 			"Title": "Full Highlights",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -36,7 +36,7 @@
 			"Title": "IPL",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/IPL.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -45,7 +45,7 @@
 			"Title": "Best Cricket Moments",
 			"Description": "India vs Sri Lanka Final Last Over - Dhoni made India won.",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/best-cricketmom.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -54,7 +54,7 @@
 			"Title": "World Cup",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/Cricket-World-Cup.jpg",
-			"HideAd": "true",
+			"HideAd": "flase",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -63,7 +63,7 @@
 			"Title": "Sportsmanship Moments",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/sportsmanship.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -72,7 +72,7 @@
 			"Title": "6 Sixes",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/six.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -81,7 +81,7 @@
 			"Title": "Top Catches",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/top-catches.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
