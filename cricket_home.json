@@ -18,7 +18,7 @@
 			"Title": "South Africa vs India ",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricketlivescore.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -36,7 +36,7 @@
 			"Title": "IPL",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/IPL.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -63,7 +63,7 @@
 			"Title": "Cricket Sportsmanship Moments",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/sportsmanship.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -81,7 +81,7 @@
 			"Title": "Top Catches",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/top-catches.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -91,7 +91,7 @@
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
 			"HideAd": "true",
-			"HideScreen": "true",
+			"HideScreen": "false",
 			"Type":"sheet"
 		}
 	]
