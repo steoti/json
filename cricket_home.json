@@ -18,7 +18,7 @@
 			"Title": "Live Cricket TV ",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricketlivescore.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -36,7 +36,7 @@
 			"Title": "IPL",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/IPL.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -45,7 +45,7 @@
 			"Title": "Best Cricket Moments",
 			"Description": "India vs Sri Lanka Final Last Over - Dhoni made India won.",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/best-cricketmom.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -63,7 +63,7 @@
 			"Title": "Sportsmanship Moments",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/sportsmanship.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -72,7 +72,7 @@
 			"Title": "6 Sixes",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/six.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
