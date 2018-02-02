@@ -6,7 +6,7 @@
 	"home": [
  		{
 			"Link": "screen1",
-			"Title": "INDIA VS SA 1st ODI ",
+			"Title": "INDIA VS SA ODI ",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricketlivescore.jpg",
 			"HideAd": "false",
@@ -15,7 +15,7 @@
 		},
 				{
 			"Link": "screen0",
-			"Title": "Live Score INDIA",
+			"Title": "Live Score ",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/scroecard.jpg",
 			"HideAd": "false",
