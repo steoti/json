@@ -4,38 +4,11 @@
 		"HomeOnClick":"true"
 	},
 	"home": [
- 		{
-			"Link": "screen1",
-			"Title": "INDIA VS SA ODI ",
-			"Description": "",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricketlivescore.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
-			"Type":"sheet"
-		},
-				{
-			"Link": "screen0",
-			"Title": "Live Score ",
-			"Description": "",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/scroecard.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
-			"Type":"sheet"
-		},
 		{
 			"Link": "screen2",
 			"Title": "Full Highlights",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
-			"HideAd": "true",
-			"HideScreen": "false",
-			"Type":"sheet"
-		},
-		{
-			"Link": "screen3",
-			"Title": "IPL",
-			"Description": "",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/IPL.jpg",
 			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
