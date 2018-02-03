@@ -5,8 +5,8 @@
 			"Title": "",	
 			"Description": "Highlights: India Vs Australia - Twenty20 World Cup Semi Final 2007",	
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/fullhighlights/India%20Vs%20Australia%20Twenty20%20World%20Cup%20Semi%20Final%202007.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"stream"
 		},
 		{
