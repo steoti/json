@@ -6,20 +6,20 @@
 	"home": [
  		{
 			"Link": "screen1",
-			"Title": "Cricket ",
+			"Title": "Live Cricket ",
 			"Description": "",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/cricketlivescore.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
 			"HideAd": "false",
-			"HideScreen": "true",
+			"HideScreen": "false",
 			"Type":"sheet"
 		},
 				{
 			"Link": "screen0",
-			"Title": "Score ",
+			"Title": "Scorecard ",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/scroecard.jpg",
 			"HideAd": "false",
-			"HideScreen": "true",
+			"HideScreen": "false",
 			"Type":"sheet"
 		},
 		{
@@ -27,7 +27,7 @@
 			"Title": "Full Highlights",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -54,7 +54,7 @@
 			"Title": "World Cup",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/Cricket-World-Cup.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -63,7 +63,7 @@
 			"Title": "Sportsmanship Moments",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/sportsmanship.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -72,7 +72,7 @@
 			"Title": "6 Sixes",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/six.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
