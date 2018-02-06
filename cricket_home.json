@@ -27,7 +27,7 @@
 			"Title": "Full Highlights",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
