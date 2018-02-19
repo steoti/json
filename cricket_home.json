@@ -4,6 +4,15 @@
 		"HomeOnClick":"true"
 	},
 	"home": [
+		{
+			"Link": "screen0",
+			"Title": "Funny Cricket Moments",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
  		{
 			"Link": "screen1",
 			"Title": "Cricket ",
@@ -75,15 +84,7 @@
 			"HideAd": "ture",
 			"HideScreen": "false",
 			"Type":"sheet"
-		},
-		{
-			"Link": "screen0",
-			"Title": "Funny Cricket Moments",
-			"Description": "",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
-			"Type":"sheet"
 		}
+		
 	]
 }
