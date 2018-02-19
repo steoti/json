@@ -10,30 +10,12 @@
 			"Type":"stream"
 		},
 		{
-			"Link": "http://contentfundooo.s3.amazonaws.com/crick/bestcricketmoments/Hero%20CPL%202017%20FINAL%20Full%20Match%20HD%20Highlights%20-%20St%20Kitts%20and%20Nevis%20Patriots%20vs%20Tr.mp4",
-			"Title": "",
-			"Description": "Hero CPL 2017 FINAL Full Match HD Highlights ",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/bestcricketmoments/Hero%20CPL%202017%20FINAL.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
-			"Type":"stream"
-		},
-		{
 			"Link": "http://contentfundooo.s3.amazonaws.com/crick/bestcricketmoments/The%20Gujarat%20Lions%20vs%20Mumbai%20Indians%20cricket%20match%20preview%20on%20Cric%20Gully%20_%20Live%20_.mp4",
 			"Title": "",
 			"Description": "The Gujarat Lions vs Mumbai Indians ",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/bestcricketmoments/The%20Gujarat%20Lions%20vs%20Mumbai%20Indians.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
-			"Type":"stream"
-		},
-		{
-			"Link": "http://contentfundooo.s3.amazonaws.com/crick/fullhighlights/Highlights%20India%20Won%20World%20Cup%202011.mp4",
-			"Title": "",
-			"Description": "Kolkata Knight Riders vs Kings XI Punjab ",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/bestcricketmoments/IPL%202014%20FINAL%20-%20Kolkata%20Knight%20Riders.jpg",
-			"HideAd": "true",
-			"HideScreen": "true",
 			"Type":"stream"
 		},
 		{
