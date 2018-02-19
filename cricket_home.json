@@ -9,7 +9,7 @@
 			"Title": "Funny Cricket Moments",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -19,7 +19,7 @@
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
 			"HideAd": "true",
-			"HideScreen": "true",
+			"HideScreen": "false",
 			"Type":"sheet"
 		},
 		{
