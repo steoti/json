@@ -1,15 +1,6 @@
 {
 	"home": [
 		{
-			"Link": "http://contentfundooo.s3.amazonaws.com/crick/fullhighlights/Highlights%20India%20Won%20World%20Cup%202011.mp4",
-			"Title": "",
-			"Description": "Live: India Won World Cup 2011",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/fullhighlights/Highlights%20India%20Won%20World%20Cup%202011.jpg",
-			"HideAd": "true",
-			"HideScreen": "true",
-			"Type":"stream"
-		},
-		{
 			"Link": "http://contentfundooo.s3.amazonaws.com/crick/fullhighlights/ICC%20%23WT20%20-%20India%20vs%20Australia%20Highlights.mp4",
 			"Title": "",
 			"Description": "Live: T20 India vs Australia",
