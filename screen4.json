@@ -5,8 +5,8 @@
 			"Title": "",	
 			"Description": "Royal Challengers Bangalore vs Sunrisers Hyderabad",	
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/bestcricketmoments/IPL%202016%20FINAL%20-%20Match%2060.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"stream"
 		},
 		{
@@ -32,8 +32,8 @@
 			"Title": "",
 			"Description": "Kolkata Knight Riders vs Kings XI Punjab ",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/bestcricketmoments/IPL%202014%20FINAL%20-%20Kolkata%20Knight%20Riders.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"stream"
 		},
 		{
