@@ -6,7 +6,7 @@
 	"home": [
  		{
 			"Link": "screen1",
-			"Title": "Live Cricket ",
+			"Title": "Cricket ",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
 			"HideAd": "true",
@@ -19,7 +19,7 @@
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/score.jpg",
 			"HideAd": "true",
-			"HideScreen": "false",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -28,7 +28,7 @@
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
 			"HideAd": "true",
-			"HideScreen": "false",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -81,7 +81,7 @@
 			"Title": "Top Catches",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/top-catches.jpg",
-			"HideAd": "false",
+			"HideAd": "ture",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -90,8 +90,8 @@
 			"Title": "Funny Cricket Moments",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
-			"HideAd": "true",
-			"HideScreen": "true",
+			"HideAd": "false",
+			"HideScreen": "false",
 			"Type":"sheet"
 		}
 	]
