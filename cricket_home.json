@@ -15,11 +15,11 @@
 		},
  		{
 			"Link": "screen1",
-			"Title": "Cricket ",
+			"Title": "Cricket",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/IPL.jpg",
 			"HideAd": "false",
-			"HideScreen": "true",
+			"HideScreen": "false",
 			"Type":"sheet"
 		},
 		{
@@ -28,7 +28,7 @@
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
 			"HideAd": "false",
-			"HideScreen": "true",
+			"HideScreen": "false",
 			"Type":"sheet"
 		},
 		{
@@ -36,8 +36,8 @@
 			"Title": "IPL",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/IPL.jpg",
-			"HideAd": "true",
-			"HideScreen": "true",
+			"HideAd": "false",
+			"HideScreen": "false",
 			"Type":"sheet"
 		},
 		{
@@ -84,7 +84,15 @@
 			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
+		},
+		{
+			"Link": "screen0",
+			"Title": "Full Highlights",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"sheet"
 		}
-		
 	]
 }
