@@ -1,6 +1,6 @@
 {
 	"settings": {
-		"HomeOnLoad":"false",
+		"HomeOnLoad":"true",
 		"HomeOnClick":"true"
 	},
 	"home": [
@@ -18,7 +18,7 @@
 			"Title": "Cricket",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/IPL.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -27,7 +27,7 @@
 			"Title": "Full Highlights",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -36,7 +36,7 @@
 			"Title": "IPL",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/IPL.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -54,7 +54,7 @@
 			"Title": "World Cup",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/Cricket-World-Cup.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -63,7 +63,7 @@
 			"Title": "Sportsmanship Moments",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/sportsmanship.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -81,7 +81,7 @@
 			"Title": "Top Catches",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/top-catches.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "true",
 			"Type":"sheet"
 		},
