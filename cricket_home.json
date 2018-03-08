@@ -1,6 +1,6 @@
 {
 	"settings": {
-		"HomeOnLoad":"true",
+		"HomeOnLoad":"false",
 		"HomeOnClick":"true"
 	},
 	"home": [
@@ -27,8 +27,8 @@
 			"Title": "Full Highlights",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -36,8 +36,8 @@
 			"Title": "IPL",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/IPL.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -45,8 +45,8 @@
 			"Title": "Best Cricket Moments",
 			"Description": "India vs Sri Lanka Final Last Over - Dhoni made India won.",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/best-cricketmom.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -54,8 +54,8 @@
 			"Title": "World Cup",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/Cricket-World-Cup.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -63,8 +63,8 @@
 			"Title": "Sportsmanship Moments",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/sportsmanship.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -72,8 +72,8 @@
 			"Title": "6 Sixes",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/six.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -81,8 +81,8 @@
 			"Title": "Top Catches",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/top-catches.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -90,8 +90,8 @@
 			"Title": "Full Highlights",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"sheet"
 		}
 	]
