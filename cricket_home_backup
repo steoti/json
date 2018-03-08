@@ -1,0 +1,98 @@
+{
+	"settings": {
+		"HomeOnLoad":"true",
+		"HomeOnClick":"true"
+	},
+	"home": [
+		{
+			"Link": "screen9",
+			"Title": "Funny Cricket Moments",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
+ 		{
+			"Link": "screen1",
+			"Title": "Cricket",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/IPL.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
+		{
+			"Link": "screen2",
+			"Title": "Full Highlights",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
+		{
+			"Link": "screen3",
+			"Title": "IPL",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/IPL.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
+		{
+			"Link": "screen4",
+			"Title": "Best Cricket Moments",
+			"Description": "India vs Sri Lanka Final Last Over - Dhoni made India won.",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/best-cricketmom.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
+		{
+			"Link": "screen5",
+			"Title": "World Cup",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/Cricket-World-Cup.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
+		{
+			"Link": "screen6",
+			"Title": "Sportsmanship Moments",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/sportsmanship.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
+		{
+			"Link": "screen7",
+			"Title": "6 Sixes",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/six.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
+		{
+			"Link": "screen8",
+			"Title": "Top Catches",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/top-catches.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"sheet"
+		},
+		{
+			"Link": "screen0",
+			"Title": "Full Highlights",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"sheet"
+		}
+	]
+}
