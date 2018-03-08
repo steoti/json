@@ -81,7 +81,7 @@
 			"Title": "Top Catches",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/top-catches.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
@@ -90,8 +90,8 @@
 			"Title": "Full Highlights",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
-			"HideAd": "true",
-			"HideScreen": "true",
+			"HideAd": "false",
+			"HideScreen": "false",
 			"Type":"sheet"
 		}
 	]
