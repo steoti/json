@@ -5,31 +5,31 @@
 	},
 	"home": [
 		{
-			"Link": "screen9",
+			"Link": "schedule",
 			"Title": "Live Cricket",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
-			"Type":"sheet"
+			"Type":"schedule"
 		},
  		{
-			"Link": "screen1",
+			"Link": "news",
 			"Title": "Cricket Moments",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/score.jpg",
 			"HideAd": "true",
 			"HideScreen": "false",
-			"Type":"sheet"
+			"Type":"news"
 		},
 		{
-			"Link": "screen2",
+			"Link": "scorecard",
 			"Title": "Full Highlights",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
-			"Type":"sheet"
+			"Type":"scorecard"
 		},
 		{
 			"Link": "screen3",
