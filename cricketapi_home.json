@@ -7,7 +7,7 @@
 		{
 			"Link": "schedule",
 			"Title": "Schedule",
-			"Description": "",
+			"Description": "Schedule",
 			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Schedule.png",
 			"HideAd": "false",
 			"HideScreen": "false",
@@ -16,7 +16,7 @@
  		{
 			"Link": "news",
 			"Title": "News",
-			"Description": "",
+			"Description": "News",
 			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/News.png",
 			"HideAd": "true",
 			"HideScreen": "false",
@@ -25,7 +25,7 @@
 		{
 			"Link": "scorecard",
 			"Title": "Scorecard",
-			"Description": "",
+			"Description": "Scorecard",
 			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Scorecard.png",
 			"HideAd": "false",
 			"HideScreen": "false",
