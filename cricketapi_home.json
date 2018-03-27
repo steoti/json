@@ -6,8 +6,8 @@
 	"home": [
 				{
 			"Link": "scorecard",
-			"Title": "Live Scorecard",
-			"Description": "",
+			"Title": "",
+			"Description": "Live Scorecard",
 			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Scorecard.png",
 			"HideAd": "false",
 			"HideScreen": "false",
@@ -15,7 +15,7 @@
 		},
 		{
 			"Link": "schedule",
-			"Title": "Latest Schedule",
+			"Title": "",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/schh.png",
 			"HideAd": "false",
@@ -24,7 +24,7 @@
 		},
  		{
 			"Link": "news",
-			"Title": "Cricket News",
+			"Title": "",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/nwup.jpg",
 			"HideAd": "true",
