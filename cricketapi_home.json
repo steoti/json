@@ -30,7 +30,15 @@
 			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"news"
+		},
+		{
+			"Link": "TOP",
+			"Title": "TOP PLAYERS STATS",
+			"Description": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
+			"HideAd": "true",
+			"HideScreen": "false",
+			"Type":"sheet"
 		}
-
 	]
 }
