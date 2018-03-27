@@ -6,7 +6,7 @@
 	"home": [
 				{
 			"Link": "scorecard",
-			"Title": "",
+			"Title": "LIVE SCORECARD",
 			"Description": "Live Scorecard",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sc.jpg",
 			"HideAd": "false",
@@ -15,7 +15,7 @@
 		},
 		{
 			"Link": "schedule",
-			"Title": "",
+			"Title": "MATCH SCHEDULE",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sch.jpg",
 			"HideAd": "false",
@@ -24,7 +24,7 @@
 		},
  		{
 			"Link": "news",
-			"Title": "",
+			"Title": "NEWS UPDATE",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/nwup.jpg",
 			"HideAd": "true",
