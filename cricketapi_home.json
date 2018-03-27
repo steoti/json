@@ -4,9 +4,18 @@
 		"HomeOnClick":"false"
 	},
 	"home": [
+				{
+			"Link": "scorecard",
+			"Title": "Live Scorecard",
+			"Description": "",
+			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Scorecard.png",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"scorecard"
+		},
 		{
 			"Link": "schedule",
-			"Title": "",
+			"Title": "Latest Schedule",
 			"Description": "",
 			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Schedule.png",
 			"HideAd": "false",
@@ -15,21 +24,13 @@
 		},
  		{
 			"Link": "news",
-			"Title": "",
+			"Title": "Cricket News",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/nwup.jpg",
 			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"news"
-		},
-		{
-			"Link": "scorecard",
-			"Title": "",
-			"Description": "",
-			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Scorecard.png",
-			"HideAd": "false",
-			"HideScreen": "false",
-			"Type":"scorecard"
 		}
+
 	]
 }
