@@ -9,8 +9,8 @@
 			"Title": "Live Cricket ",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
  		{
@@ -19,7 +19,7 @@
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/score.jpg",
 			"HideAd": "true",
-			"HideScreen": "false",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -46,7 +46,7 @@
 			"Description": "India vs Sri Lanka Final Last Over - Dhoni made India won.",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/best-cricketmom.jpg",
 			"HideAd": "true",
-			"HideScreen": "false",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -55,7 +55,7 @@
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/Cricket-World-Cup.jpg",
 			"HideAd": "true",
-			"HideScreen": "false",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -63,8 +63,8 @@
 			"Title": "Sportsmanship Moments",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/sportsmanship.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -72,8 +72,8 @@
 			"Title": "6 Sixes",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/six.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -82,7 +82,7 @@
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/top-catches.jpg",
 			"HideAd": "true",
-			"HideScreen": "false",
+			"HideScreen": "true",
 			"Type":"sheet"
 		},
 		{
@@ -90,8 +90,8 @@
 			"Title": "Full Highlights",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
+			"HideAd": "true",
+			"HideScreen": "ture",
 			"Type":"sheet"
 		}
 	]
