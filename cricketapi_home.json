@@ -6,8 +6,8 @@
 	"home": [
 		{
 			"Link": "schedule",
-			"Title": "Schedule",
-			"Description": "Schedule",
+			"Title": "",
+			"Description": "",
 			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Schedule.png",
 			"HideAd": "false",
 			"HideScreen": "false",
@@ -15,8 +15,8 @@
 		},
  		{
 			"Link": "news",
-			"Title": "News",
-			"Description": "News",
+			"Title": "",
+			"Description": "",
 			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/News.png",
 			"HideAd": "true",
 			"HideScreen": "false",
@@ -24,8 +24,8 @@
 		},
 		{
 			"Link": "scorecard",
-			"Title": "Scorecard",
-			"Description": "Scorecard",
+			"Title": "",
+			"Description": "",
 			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Scorecard.png",
 			"HideAd": "false",
 			"HideScreen": "false",
