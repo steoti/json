@@ -84,6 +84,15 @@
 			"HideAd": "true",
 			"HideScreen": "true",
 			"Type":""
+		},
+		{
+			"Link": "",
+			"Title": "",
+			"Description": "",
+			"ContentInfo": "",
+			"HideAd": "true",
+			"HideScreen": "true",
+			"Type":""
 		}
 	]
 }
