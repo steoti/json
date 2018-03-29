@@ -6,8 +6,8 @@
 	"home": [
 				{
 			"Link": "scorecard",
-			"Title": "LIVE SCORECARD",
-			"Description": "Live Scorecard",
+			"Title": "SCORECARD",
+			"Description": "Scorecard",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sc.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
@@ -16,7 +16,7 @@
 		{
 			"Link": "schedule",
 			"Title": "MATCH SCHEDULE",
-			"Description": "",
+			"Description": "MATCH SCHEDULE",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sch.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
@@ -25,20 +25,20 @@
  		{
 			"Link": "news",
 			"Title": "NEWS UPDATE",
-			"Description": "",
+			"Description": "NEWS UPDATE",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/nwup.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"news"
 		},
 		{
-			"Link": "TOP",
+			"Link": "recent_matches",
 			"Title": "TOP PLAYERS STATS",
-			"Description": "",
+			"Description": "TOP PLAYERS STATS",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
-			"Type":""
+			"Type":"recent_matches"
 		}
 	]
 }
