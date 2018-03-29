@@ -4,7 +4,7 @@
 		"HomeOnClick":"false"
 	},
 	"home": [
-				{
+		{
 			"Link": "scorecard",
 			"Title": "SCORECARD",
 			"Description": "Scorecard",
@@ -39,6 +39,51 @@
 			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"recent_matches"
+		},
+		{
+			"Link": "",
+			"Title": "",
+			"Description": "",
+			"ContentInfo": "",
+			"HideAd": "true",
+			"HideScreen": "true",
+			"Type":""
+		},
+		{
+			"Link": "",
+			"Title": "",
+			"Description": "",
+			"ContentInfo": "",
+			"HideAd": "true",
+			"HideScreen": "true",
+			"Type":""
+		},
+ 		{
+			"Link": "",
+			"Title": "",
+			"Description": "",
+			"ContentInfo": "",
+			"HideAd": "true",
+			"HideScreen": "true",
+			"Type":""
+		},
+		{
+			"Link": "",
+			"Title": "",
+			"Description": "",
+			"ContentInfo": "",
+			"HideAd": "true",
+			"HideScreen": "true",
+			"Type":""
+		},
+		{
+			"Link": "",
+			"Title": "",
+			"Description": "",
+			"ContentInfo": "",
+			"HideAd": "true",
+			"HideScreen": "true",
+			"Type":""
 		}
 	]
 }
