@@ -25,7 +25,7 @@
  		{
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/news/news.json",
 			"Title": "NEWS UPDATE",
-			"Description": "NEWS UPDATE",
+			"Description": "false",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/nwup.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
