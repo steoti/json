@@ -1,15 +1,15 @@
 {
 	"settings": {
-		"HomeOnLoad":"true",
-		"HomeOnClick":"true"
+		"HomeOnLoad":"false",
+		"HomeOnClick":"false"
 	},
 	"home": [
 		{
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/recentmatch/recentMatches.json",
 			"Title": "SCORECARD",
 			"Description": "true",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sc.jpg",
-			"HideAd": "false",
+			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Scorecard.png",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"recent_matches"
 		},
@@ -17,8 +17,8 @@
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/schedule/schedule.json",
 			"Title": "MATCH SCHEDULE",
 			"Description": "true",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sch.jpg",
-			"HideAd": "false",
+			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Schedule.png",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"schedule"
 		},
@@ -26,19 +26,19 @@
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/news/news.json",
 			"Title": "NEWS UPDATE",
 			"Description": "true",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/nwup.jpg",
+			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/News.png",
 			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"news"
 		},
 		{
 			"Link": "",
-			"Title": "TOP PLAYERS STATS",
-			"Description": "TOP PLAYERS STATS",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/funny-cricket.jpg",
-			"HideAd": "false",
-			"HideScreen": "false",
-			"Type":"team"
+			"Title": "",
+			"Description": "",
+			"ContentInfo": "",
+			"HideAd": "true",
+			"HideScreen": "true",
+			"Type":""
 		},
 		{
 			"Link": "",
