@@ -1,13 +1,13 @@
 {
 	"settings": {
 		"HomeOnLoad":"false",
-		"HomeOnClick":"false"
+		"HomeOnClick":"true"
 	},
 	"home": [
 		{
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/recentmatch/recentMatches.json",
 			"Title": "SCORECARD",
-			"Description": "true",
+			"Description": "false",
 			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Scorecard.png",
 			"HideAd": "true",
 			"HideScreen": "false",
@@ -16,7 +16,7 @@
 		{
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/schedule/schedule.json",
 			"Title": "MATCH SCHEDULE",
-			"Description": "true",
+			"Description": "false",
 			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Schedule.png",
 			"HideAd": "true",
 			"HideScreen": "false",
@@ -25,7 +25,7 @@
  		{
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/news/news.json",
 			"Title": "NEWS UPDATE",
-			"Description": "true",
+			"Description": "false",
 			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/News.png",
 			"HideAd": "false",
 			"HideScreen": "false",
