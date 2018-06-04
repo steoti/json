@@ -8,7 +8,7 @@
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/recentmatch/recentMatches.json",
 			"Title": "SCORECARD",
 			"Description": "false",
-			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Scorecard.png",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sc.jpg",
 			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"recent_matches"
@@ -17,7 +17,7 @@
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/schedule/schedule.json",
 			"Title": "MATCH SCHEDULE",
 			"Description": "false",
-			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/Schedule.png",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sch.jpg",
 			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"schedule"
@@ -26,7 +26,7 @@
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/news/news.json",
 			"Title": "NEWS UPDATE",
 			"Description": "false",
-			"ContentInfo": "http://imagevd.s3.amazonaws.com/cricbuzz/News.png",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/nwup.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"news"
