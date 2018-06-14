@@ -32,12 +32,12 @@
 			"Type":"news"
 		},
 		{
-			"Link": "fifa1",
-			"Title": "Sports",
+			"Link": "https://raw.githubusercontent.com/steoti/json/master/fifa1.json",
+			"Title": "SPORTS",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fifa.jpg",
-			"HideAd": "false",
-			"HideScreen": "true",
+			"HideAd": "true",
+			"HideScreen": "false",
 			"Type":"sheet"
 		},
 		{
