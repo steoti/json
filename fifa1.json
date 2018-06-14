@@ -6,7 +6,7 @@
 			"Description": "Audio-descriptive commentary",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fifa.jpg",
 			"HideAd": "true",
-			"HideScreen": "false",
+			"HideScreen": "true",
 			"Type": "stream"
 		}
 	]
