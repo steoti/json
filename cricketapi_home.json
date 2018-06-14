@@ -33,9 +33,9 @@
 		},
 		{
 			"Link": "screen2",
-			"Title": "Full Highlights",
+			"Title": "Sports",
 			"Description": "",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fifa.jpg",
 			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
