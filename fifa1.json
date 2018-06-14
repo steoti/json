@@ -5,8 +5,9 @@
 			"Title": "FIFA World Cup 2018",
 			"Description": "Audio-descriptive commentary",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fifa.jpg",
-			"HideAd": "true",
-			"HideScreen": "true",
+			"showIntAd": "true",
+			"showBanad": "true",
+			"showIntAdOnClick": "false",
 			"Type": "stream"
 		}
 	]
