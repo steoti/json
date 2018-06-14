@@ -32,13 +32,13 @@
 			"Type":"news"
 		},
 		{
-			"Link": "",
-			"Title": "",
+			"Link": "screen2",
+			"Title": "Full Highlights",
 			"Description": "",
-			"ContentInfo": "",
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fullhighlights.jpg",
 			"HideAd": "true",
-			"HideScreen": "true",
-			"Type":""
+			"HideScreen": "false",
+			"Type":"sheet"
 		},
 		{
 			"Link": "",
