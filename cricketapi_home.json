@@ -32,13 +32,13 @@
 			"Type":"news"
 		},
 		{
-			"Link": "fifa1",
+			"Link": "http://119.252.192.6/live/ddsports_ts.sdp/playlist.m3u8?sf=net",
 			"Title": "SPORTS",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fifa.jpg",
 			"HideAd": "true",
 			"HideScreen": "false",
-			"Type":"sheet"
+			"Type":"stream"
 		},
 		{
 			"Link": "",
