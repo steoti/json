@@ -27,7 +27,7 @@
 			"Title": "NEWS UPDATE",
 			"Description": "false",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/nwup.jpg",
-			"HideAd": "false",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"news"
 		},
@@ -37,7 +37,7 @@
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fifa.jpg",
 			"HideAd": "true",
-			"HideScreen": "true",
+			"HideScreen": "false",
 			"Type":"stream"
 		},
 		{
