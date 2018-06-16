@@ -1,6 +1,6 @@
 {
 	"home": [{
-			"Link": "http://119.252.192.6/live/ddsports_ts.sdp/playlist.m3u8?sf=net",
+			"Link": "http://13.127.161.43/live/test.sdp/playlist.m3u8?sf=net",
 			"Title": "FIFA World Cup 2018",
 			"Description": "Audio-descriptive commentary",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fifa.jpg",
