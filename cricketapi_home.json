@@ -41,13 +41,13 @@
 			"Type":"sheet"
 		},
 		{
-			"Link": "",
-			"Title": "",
+			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/news/fifa.json",
+			"Title": "FIFA SCHEDULE",
 			"Description": "",
-			"ContentInfo": "",
-			"HideAd": "true",
-			"HideScreen": "true",
-			"Type":""
+			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fifa.jpg",
+			"HideAd": "false",
+			"HideScreen": "false",
+			"Type":"news"
 		},
 		{
 			"Link": "",
