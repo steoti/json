@@ -33,7 +33,7 @@
 		},
 		{
 			"Link": "fifa1",
-			"Title": "SPORTS",
+			"Title": "FIFA 2018",
 			"Description": "",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fifa.jpg",
 			"HideAd": "true",
@@ -42,7 +42,7 @@
 		},
 		{
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/news/fifa.json",
-			"Title": "FIFA SCHEDULE",
+			"Title": "FIFA SCORES && SCHEDULE",
 			"Description": "",
 			"ContentInfo": "https://i.ytimg.com/vi/0B_Lu-Im408/hqdefault.jpg",
 			"HideAd": "false",
