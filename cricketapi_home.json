@@ -1,6 +1,6 @@
 {
 	"settings": {
-		"HomeOnLoad":"false",
+		"HomeOnLoad":"true",
 		"HomeOnClick":"true"
 	},
 	"home": [
@@ -9,7 +9,7 @@
 			"Title": "SCORECARD",
 			"Description": "false",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sc.jpg",
-			"HideAd": "true",
+			"HideAd": "false",
 			"HideScreen": "false",
 			"Type":"recent_matches"
 		},
