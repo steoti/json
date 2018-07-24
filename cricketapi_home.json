@@ -32,20 +32,20 @@
 			"Type":"news"
 		},
 		{
-			"Link": "fifa1",
-			"Title": "FIFA 2018",
+			"Link": "",
+			"Title": "",
 			"Description": "",
-			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/image/fifa.jpg",
+			"ContentInfo": "",
 			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"sheet"
 		},
 		{
-			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/news/fifa.json",
-			"Title": "FIFA SCORE & SCHEDULE",
+			"Link": "",
+			"Title": "",
 			"Description": "",
-			"ContentInfo": "https://i.ytimg.com/vi/0B_Lu-Im408/hqdefault.jpg",
-			"HideAd": "false",
+			"ContentInfo": "",
+			"HideAd": "true",
 			"HideScreen": "false",
 			"Type":"news"
 		},
