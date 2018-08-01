@@ -5,7 +5,7 @@
 	  "app_background_color":"000000",
 	  "hide_upload":false,
 	  "hide_download":false,
-	  "hide_ads":true,
+	  "hide_ads":"true",
 	  "hide_rating":false,
 	  "hide_views":true,
 	  "hide_duration":false,
