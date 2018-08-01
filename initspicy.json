@@ -1,7 +1,7 @@
 {
 "init":	{
 	  "data_source":"https://raw.githubusercontent.com/steoti/json/master/data.json",
-	  "grid_columns": "1",
+	  "grid_columns": "2",
 	  "app_background_color":"000000",
 	  "hide_upload":false,
 	  "hide_download":false,
