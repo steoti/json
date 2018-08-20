@@ -16,7 +16,7 @@
 		{
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/schedule/schedule.json",
 			"Title": "MATCH SCHEDULE",
-			"Description": "false",
+			"Description": "true",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sch.jpg",
 			"HideAd": "true",
 			"HideScreen": "false",
