@@ -7,7 +7,7 @@
 		{
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/recentmatch/recentMatches.json",
 			"Title": "SCORECARD",
-			"Description": "false",
+			"Description": "true",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sc.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
