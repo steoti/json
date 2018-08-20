@@ -32,13 +32,13 @@
 			"Type":"news"
 		},
 		{
-			"Link": "iIxuMa9icgM",
-			"Title": "Cricket Info",
-			"Description": "false",
-			"ContentInfo": "https://i.ytimg.com/vi/w-fDevb2gnA/hqdefault.jpg",
+			"Link": "",
+			"Title": "",
+			"Description": "",
+			"ContentInfo": "",
 			"HideAd": "true",
-			"HideScreen": "false",
-			"Type":"yti"
+			"HideScreen": "true",
+			"Type":""
 		},
 		{
 			"Link": "",
