@@ -37,8 +37,8 @@
 			"Description": "",
 			"ContentInfo": "",
 			"HideAd": "true",
-			"HideScreen": "false",
-			"Type":"sheet"
+			"HideScreen": "true",
+			"Type":""
 		},
 		{
 			"Link": "",
@@ -46,8 +46,8 @@
 			"Description": "",
 			"ContentInfo": "",
 			"HideAd": "true",
-			"HideScreen": "false",
-			"Type":"news"
+			"HideScreen": "true",
+			"Type":""
 		},
 		{
 			"Link": "",
