@@ -11,7 +11,7 @@
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sc.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
-			"Type":"recent_matches"
+			"Type":"schedule"
 		},
 		{
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/schedule/schedule.json",
@@ -38,7 +38,7 @@
 			"ContentInfo": "",
 			"HideAd": "true",
 			"HideScreen": "true",
-			"Type":""
+			"Type":"recent_matches"
 		},
 		{
 			"Link": "",
