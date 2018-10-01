@@ -5,7 +5,7 @@
 	},
 	"home": [
 		{
-			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/recentmatch/recentMatches.json",
+			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/schedule/schedule.json",
 			"Title": "SCORECARD",
 			"Description": "true",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sc.jpg",
@@ -32,7 +32,7 @@
 			"Type":"news"
 		},
 		{
-			"Link": "",
+			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/recentmatch/recentMatches.json",
 			"Title": "",
 			"Description": "",
 			"ContentInfo": "",
