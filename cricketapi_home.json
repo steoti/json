@@ -5,13 +5,13 @@
 	},
 	"home": [
 		{
-			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/schedule/schedule.json",
+			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/recentmatch/recentMatches.json",
 			"Title": "SCORECARD",
 			"Description": "true",
 			"ContentInfo": "http://contentfundooo.s3.amazonaws.com/crick/crick/sc.jpg",
 			"HideAd": "false",
 			"HideScreen": "false",
-			"Type":"schedule"
+			"Type":"recent_matches"
 		},
 		{
 			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/schedule/schedule.json",
@@ -32,13 +32,13 @@
 			"Type":"news"
 		},
 		{
-			"Link": "http://imagevd.s3.amazonaws.com/cricbuzz/recentmatch/recentMatches.json",
+			"Link": "",
 			"Title": "",
 			"Description": "",
 			"ContentInfo": "",
 			"HideAd": "true",
 			"HideScreen": "true",
-			"Type":"recent_matches"
+			"Type":""
 		},
 		{
 			"Link": "",
